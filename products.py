@@ -1,0 +1,10 @@
+products = [{"id":1, "name":"Laptop bag", "price":100},
+            {"id":2, "name":"School shoes", "price":200},
+            {"id":3, "name":"Polo Shirts", "price":300},
+            {"id":4, "name":"Stationery", "price":150},
+            {"id":5, "name":"Socks", "price":100},
+            {"id":6, "name":"Brown shorts", "price":50},
+            {"id":7, "name":"Water bottle", "price":30},
+            {"id":8, "name":"Lunch box", "price":180},
+            {"id":9, "name":"Cutlery", "price":40},
+            {"id":10,"name":"Body perfume", "price":500}]
